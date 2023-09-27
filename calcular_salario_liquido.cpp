@@ -1,6 +1,6 @@
 #include "imposto"
 #include <iostream>
-#include <unistd.h> // biblioteca do linuz que possibilita limpar o terminal
+#include <unistd.h> // biblioteca que possibilita a utilização do comando "clear" no linux
 
 using namespace std;
 
