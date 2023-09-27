@@ -7,7 +7,7 @@ A formula de conversão é: F := (9 * C + 160)/5, sendo C a temperatura em Celsi
 #include "converter_temperaturas.h"
 #include <iostream>
 #include <unistd.h>
-#include <locale.h> // Permite a utilização de caracteres oficiais
+#include <locale.h> // Permite a utilização de caracteres especiais
 
 using namespace std;
 
