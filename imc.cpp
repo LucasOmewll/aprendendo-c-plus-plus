@@ -28,4 +28,6 @@ float calcular_desconto(float imc)
     {
         desconto = 0;
     }
+
+    return desconto;
 }
